@@ -40,7 +40,7 @@ I am a 6th Semester student majoring in Information Systems from Universitas Mul
 
 ### Lets connect through:
 <a href="https://www.linkedin.com/in/muhammadrafiihaditomoe/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://discord.com/users/Roughy#0151"><img src="https://img.icons8.com/ios/48/discord-logo.png"/></a>
+<a href="https://discord.com/users/Roughy#0151"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/discord-logo.png"/></a>
 
 
 [resume]: https://drive.google.com/file/d/1vvaGWrpPXgtKJpZdlVUxvwHIZHXcnRoK/view?usp=sharing
