@@ -1,13 +1,13 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roughyy 👩‍💻</h1>
 <br>
 
-I am a 6th Semester student majoring in Information Systems from Universitas Multimedia Nusantara with a specialization in Big Data. I have always been interested in working with technology related to Data Science and Web Development and I also have done several projects and classes related to Data Science and Web development using language and tools such as Python, R, Rapid Miner, GCP, HTML, CSS, Javascript, PHP, and MySQL. 
+I am a fresh graduate majoring in Information Systems from Universitas Multimedia Nusantara with a specialization in Big Data. I have always been interested in working with technology related to Data Science and Web Development and I also have done several projects and classes related to Data Science and Web development using languages and tools such as Python, R, Rapid Miner, GCP, HTML, CSS, Javascript, PHP, and MySQL. 
 
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-- 🌱 I’m currently learning Machine Learning and Deeplearning also React JS
+- 🌱 I’m currently learning Machine Learning and Deep learning also React JS
 - 👯 I’m looking for Data Science/Analyst and Web Developer Internship 
 - 📫 Reach out to me: muhammad.rafii.haditomo@gmail.com
 - ✍ You can find my resume here [Resume]
@@ -38,7 +38,7 @@ I am a 6th Semester student majoring in Information Systems from Universitas Mul
 <br>
 
 
-### Lets connect through:
+### Let's connect through:
 <a href="https://www.linkedin.com/in/muhammadrafiihaditomoe/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://discord.com/users/Roughy#0151"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/discord-logo.png"/></a>
 
