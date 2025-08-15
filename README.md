@@ -1,18 +1,7 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roughyy 👩‍💻</h1>
 <br>
 
-I am a fresh graduate majoring in Information Systems from Universitas Multimedia Nusantara with a specialization in Big Data. I have always been interested in working with technology related to Data Science and Web Development and I also have done several projects and classes related to Data Science and Web development using languages and tools such as Python, R, Rapid Miner, GCP, HTML, CSS, Javascript, PHP, and MySQL. 
-
-<br>
-
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-
-- 🌱 I’m currently learning Machine Learning and Deep learning also React JS
-- 👯 I’m looking for Data Science/Analyst and Web Developer Internship 
-- 📫 Reach out to me: muhammad.rafii.haditomo@gmail.com
-- ✍ You can find my resume here [Resume]
-
-<br>
+I build things
 
 
 ### 🚀 Tech that I mainly use:
