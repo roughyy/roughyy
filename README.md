@@ -6,7 +6,7 @@
 ### Let's connect through:
 <a href="https://www.linkedin.com/in/muhammadrafiihaditomoe/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://discord.com/users/Roughy#0151"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/discord-logo.png"/></a>
-<a href='https://Roughyy.com'> <img src="https://img.icons8.com/?size=100&id=mxnsvF05U2Vw&format=png&color=000000"/><a/>
+<a href='https://Roughyy.com'> Personal Website<a/>
 
 
 [resume]: https://drive.google.com/file/d/1vvaGWrpPXgtKJpZdlVUxvwHIZHXcnRoK/view?usp=sharing
